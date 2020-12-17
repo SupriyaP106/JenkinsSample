@@ -1,0 +1,7 @@
+E:\Supriya\LTI Training\DevOps Git\Day3\SampleJenkinsProgram\SampleJenkinsProgram\bin\Debug\SampleJenkinsProgram.exe.config
+E:\Supriya\LTI Training\DevOps Git\Day3\SampleJenkinsProgram\SampleJenkinsProgram\bin\Debug\SampleJenkinsProgram.exe
+E:\Supriya\LTI Training\DevOps Git\Day3\SampleJenkinsProgram\SampleJenkinsProgram\bin\Debug\SampleJenkinsProgram.pdb
+E:\Supriya\LTI Training\DevOps Git\Day3\SampleJenkinsProgram\SampleJenkinsProgram\obj\Debug\SampleJenkinsProgram.csprojAssemblyReference.cache
+E:\Supriya\LTI Training\DevOps Git\Day3\SampleJenkinsProgram\SampleJenkinsProgram\obj\Debug\SampleJenkinsProgram.csproj.CoreCompileInputs.cache
+E:\Supriya\LTI Training\DevOps Git\Day3\SampleJenkinsProgram\SampleJenkinsProgram\obj\Debug\SampleJenkinsProgram.exe
+E:\Supriya\LTI Training\DevOps Git\Day3\SampleJenkinsProgram\SampleJenkinsProgram\obj\Debug\SampleJenkinsProgram.pdb
